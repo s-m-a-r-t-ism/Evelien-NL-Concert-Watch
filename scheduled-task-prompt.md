@@ -55,7 +55,9 @@ Artiestspecifieke tips:
 - Ma$e (Amerikaanse rapper) staat ook bekend als "Mase"; zoek met beide spellingen en check dat het om de rapper gaat.
 - Q-Tip (van A Tribe Called Quest): tel ook optredens mee als A Tribe Called Quest waar Q-Tip deel van uitmaakt; noem dat dan in venue_or_city of in het chatbericht.
 - FS Green is een Nederlandse dj/producer: let ook op clubnachten en dance-festivals.
-- Ikkimel is een Duitse rapper: Düsseldorf/omgeving en Duitse ticketsites (eventim.de) zijn hier extra relevant. Zoek zonder tijdslimiet, ook naar shows die pas over een jaar of later plaatsvinden.
+- Ikkimel is een Duitse rapper: Düsseldorf/omgeving en Duitse ticketsites (eventim.de) zijn hier extra relevant.
+
+Zoek zonder tijdslimiet, ook naar shows die pas over een jaar of later plaatsvinden.
 
 Werk hierbij bewust LICHT (token-efficiënt), dit is een routinematige wekelijkse check, geen diepgravend onderzoek:
 - Spawn GEEN parallelle subagents om de artiestenlijst te verdelen. Doorloop de lijst gewoon zelf, artiest voor artiest.
