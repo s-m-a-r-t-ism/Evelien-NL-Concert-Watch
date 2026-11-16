@@ -14,7 +14,14 @@
     "Q-Tip",
     "Snoop Dogg"
   ],
-  "known_shows": [],
-  "last_run": null,
-  "last_run_by": null
+  "known_shows": [
+    {
+      "artist": "Ikkimel",
+      "date": "2026-11-27",
+      "venue_or_city": "Mitsubishi Electric HALLE, Düsseldorf (DE)",
+      "source_url": "https://www.mitsubishi-electric-halle.de/"
+    }
+  ],
+  "last_run": "2026-11-16T00:00:00+01:00",
+  "last_run_by": "Thinkpad_thuis"
 }
